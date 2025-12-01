@@ -17,3 +17,7 @@ Picture of the case
 <img width="506" height="350" alt="image" src="https://github.com/user-attachments/assets/c08d51b7-d2a2-4302-ad65-d0badf5feb15" />
 
 Picture of the bottom case 
+
+<img width="534" height="330" alt="image" src="https://github.com/user-attachments/assets/5c5b7e69-3c85-47eb-9662-7623adb51b08" />
+
+Picture of the top case
