@@ -7,8 +7,13 @@ As of now, the design for best mobility is still a work in progress but the curr
 Photos of the project:
 
 <img width="367" height="358" alt="image" src="https://github.com/user-attachments/assets/70fc91a1-5a9d-4288-b15e-7c6d9bb65c32" />
+
 Picture of the case top view
+
 <img width="427" height="319" alt="image" src="https://github.com/user-attachments/assets/8eb23797-8e92-4276-8b96-03591adf7922" />
+
 Picture of the case
+
 <img width="506" height="350" alt="image" src="https://github.com/user-attachments/assets/c08d51b7-d2a2-4302-ad65-d0badf5feb15" />
+
 Picture of the bottom case 
