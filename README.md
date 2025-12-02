@@ -4,6 +4,8 @@ The pad has all of the keys simplified to ease your gaming experience, to not ha
 
 As of now, the design for best mobility is still a work in progress but the current design is a sight-to-behold. 
 
+I have added the components to see the fit of the components to the overall pad. I have borrowed other's CAD for the switches and seeed xiao rp2040. https://github.com/ConstantinoSchillebeeckx/cherry-mx-switch/blob/master/switch.step for the switch and https://www.printables.com/model/1344046-3d-model-for-seeed-studio-xiao-rp2040/files for the seeed.
+
 Photos of the project:
 
 <img width="367" height="358" alt="image" src="https://github.com/user-attachments/assets/70fc91a1-5a9d-4288-b15e-7c6d9bb65c32" />
@@ -21,3 +23,10 @@ Picture of the bottom case
 <img width="534" height="330" alt="image" src="https://github.com/user-attachments/assets/5c5b7e69-3c85-47eb-9662-7623adb51b08" />
 
 Picture of the top case
+
+BOM:
+Seeed XIAO RP2040	1x
+MX-Style switches	6x
+Blank DSA keycaps (White)	6x
+SK6812 MINI-E LEDs	2x
+M3x16mm screws	4x
