@@ -8,11 +8,11 @@ I have added the components to see the fit of the components to the overall pad.
 
 Photos of the project:
 
-<img width="367" height="358" alt="image" src="https://github.com/user-attachments/assets/70fc91a1-5a9d-4288-b15e-7c6d9bb65c32" />
+<img width="347" height="343" alt="image" src="https://github.com/user-attachments/assets/7aed924c-ed25-45e0-8017-63c8d919c376" />
 
 Picture of the case top view
 
-<img width="427" height="319" alt="image" src="https://github.com/user-attachments/assets/8eb23797-8e92-4276-8b96-03591adf7922" />
+<img width="469" height="329" alt="image" src="https://github.com/user-attachments/assets/b0d82d9a-2b0b-4fb2-be35-21b91a43ca39" />
 
 Picture of the case
 
