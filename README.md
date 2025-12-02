@@ -24,6 +24,16 @@ Picture of the bottom case
 
 Picture of the top case
 
+Photos of the PCB:
+
+<img width="449" height="455" alt="image" src="https://github.com/user-attachments/assets/4c5cc1fe-6f32-4ff5-8801-76de2f7ca361" />
+
+PCB layout
+
+<img width="305" height="343" alt="image" src="https://github.com/user-attachments/assets/f2029bf9-5a5b-4ed5-902a-35b4ae6ae62e" />
+
+Schematic 
+
 BOM:
 
 Seeed XIAO RP2040	1x
