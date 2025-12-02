@@ -25,8 +25,13 @@ Picture of the bottom case
 Picture of the top case
 
 BOM:
+
 Seeed XIAO RP2040	1x
+
 MX-Style switches	6x
+
 Blank DSA keycaps (White)	6x
+
 SK6812 MINI-E LEDs	2x
+
 M3x16mm screws	4x
